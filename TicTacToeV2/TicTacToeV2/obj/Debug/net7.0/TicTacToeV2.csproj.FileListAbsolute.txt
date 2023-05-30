@@ -1,0 +1,15 @@
+C:\Users\dyln2\source\repos\TicTacToeV2\TicTacToeV2\bin\Debug\net7.0\TicTacToeV2.exe
+C:\Users\dyln2\source\repos\TicTacToeV2\TicTacToeV2\bin\Debug\net7.0\TicTacToeV2.deps.json
+C:\Users\dyln2\source\repos\TicTacToeV2\TicTacToeV2\bin\Debug\net7.0\TicTacToeV2.runtimeconfig.json
+C:\Users\dyln2\source\repos\TicTacToeV2\TicTacToeV2\bin\Debug\net7.0\TicTacToeV2.dll
+C:\Users\dyln2\source\repos\TicTacToeV2\TicTacToeV2\bin\Debug\net7.0\TicTacToeV2.pdb
+C:\Users\dyln2\source\repos\TicTacToeV2\TicTacToeV2\obj\Debug\net7.0\TicTacToeV2.csproj.AssemblyReference.cache
+C:\Users\dyln2\source\repos\TicTacToeV2\TicTacToeV2\obj\Debug\net7.0\TicTacToeV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyln2\source\repos\TicTacToeV2\TicTacToeV2\obj\Debug\net7.0\TicTacToeV2.AssemblyInfoInputs.cache
+C:\Users\dyln2\source\repos\TicTacToeV2\TicTacToeV2\obj\Debug\net7.0\TicTacToeV2.AssemblyInfo.cs
+C:\Users\dyln2\source\repos\TicTacToeV2\TicTacToeV2\obj\Debug\net7.0\TicTacToeV2.csproj.CoreCompileInputs.cache
+C:\Users\dyln2\source\repos\TicTacToeV2\TicTacToeV2\obj\Debug\net7.0\TicTacToeV2.dll
+C:\Users\dyln2\source\repos\TicTacToeV2\TicTacToeV2\obj\Debug\net7.0\refint\TicTacToeV2.dll
+C:\Users\dyln2\source\repos\TicTacToeV2\TicTacToeV2\obj\Debug\net7.0\TicTacToeV2.pdb
+C:\Users\dyln2\source\repos\TicTacToeV2\TicTacToeV2\obj\Debug\net7.0\TicTacToeV2.genruntimeconfig.cache
+C:\Users\dyln2\source\repos\TicTacToeV2\TicTacToeV2\obj\Debug\net7.0\ref\TicTacToeV2.dll
