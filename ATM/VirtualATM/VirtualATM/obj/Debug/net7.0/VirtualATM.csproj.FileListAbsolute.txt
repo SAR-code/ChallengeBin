@@ -1,0 +1,14 @@
+C:\Github\ChallengeBin\ATM\VirtualATM\VirtualATM\bin\Debug\net7.0\VirtualATM.exe
+C:\Github\ChallengeBin\ATM\VirtualATM\VirtualATM\bin\Debug\net7.0\VirtualATM.deps.json
+C:\Github\ChallengeBin\ATM\VirtualATM\VirtualATM\bin\Debug\net7.0\VirtualATM.runtimeconfig.json
+C:\Github\ChallengeBin\ATM\VirtualATM\VirtualATM\bin\Debug\net7.0\VirtualATM.dll
+C:\Github\ChallengeBin\ATM\VirtualATM\VirtualATM\bin\Debug\net7.0\VirtualATM.pdb
+C:\Github\ChallengeBin\ATM\VirtualATM\VirtualATM\obj\Debug\net7.0\VirtualATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\ChallengeBin\ATM\VirtualATM\VirtualATM\obj\Debug\net7.0\VirtualATM.AssemblyInfoInputs.cache
+C:\Github\ChallengeBin\ATM\VirtualATM\VirtualATM\obj\Debug\net7.0\VirtualATM.AssemblyInfo.cs
+C:\Github\ChallengeBin\ATM\VirtualATM\VirtualATM\obj\Debug\net7.0\VirtualATM.csproj.CoreCompileInputs.cache
+C:\Github\ChallengeBin\ATM\VirtualATM\VirtualATM\obj\Debug\net7.0\VirtualATM.dll
+C:\Github\ChallengeBin\ATM\VirtualATM\VirtualATM\obj\Debug\net7.0\refint\VirtualATM.dll
+C:\Github\ChallengeBin\ATM\VirtualATM\VirtualATM\obj\Debug\net7.0\VirtualATM.pdb
+C:\Github\ChallengeBin\ATM\VirtualATM\VirtualATM\obj\Debug\net7.0\VirtualATM.genruntimeconfig.cache
+C:\Github\ChallengeBin\ATM\VirtualATM\VirtualATM\obj\Debug\net7.0\ref\VirtualATM.dll
