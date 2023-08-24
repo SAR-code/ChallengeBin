@@ -1,0 +1,14 @@
+C:\Github\ChallengeBin\SOLID Examples\SOLID.Demo\SOLID.Demo\bin\Debug\net7.0\SOLID.Demo.exe
+C:\Github\ChallengeBin\SOLID Examples\SOLID.Demo\SOLID.Demo\bin\Debug\net7.0\SOLID.Demo.deps.json
+C:\Github\ChallengeBin\SOLID Examples\SOLID.Demo\SOLID.Demo\bin\Debug\net7.0\SOLID.Demo.runtimeconfig.json
+C:\Github\ChallengeBin\SOLID Examples\SOLID.Demo\SOLID.Demo\bin\Debug\net7.0\SOLID.Demo.dll
+C:\Github\ChallengeBin\SOLID Examples\SOLID.Demo\SOLID.Demo\bin\Debug\net7.0\SOLID.Demo.pdb
+C:\Github\ChallengeBin\SOLID Examples\SOLID.Demo\SOLID.Demo\obj\Debug\net7.0\SOLID.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\ChallengeBin\SOLID Examples\SOLID.Demo\SOLID.Demo\obj\Debug\net7.0\SOLID.Demo.AssemblyInfoInputs.cache
+C:\Github\ChallengeBin\SOLID Examples\SOLID.Demo\SOLID.Demo\obj\Debug\net7.0\SOLID.Demo.AssemblyInfo.cs
+C:\Github\ChallengeBin\SOLID Examples\SOLID.Demo\SOLID.Demo\obj\Debug\net7.0\SOLID.Demo.csproj.CoreCompileInputs.cache
+C:\Github\ChallengeBin\SOLID Examples\SOLID.Demo\SOLID.Demo\obj\Debug\net7.0\SOLID.Demo.dll
+C:\Github\ChallengeBin\SOLID Examples\SOLID.Demo\SOLID.Demo\obj\Debug\net7.0\refint\SOLID.Demo.dll
+C:\Github\ChallengeBin\SOLID Examples\SOLID.Demo\SOLID.Demo\obj\Debug\net7.0\SOLID.Demo.pdb
+C:\Github\ChallengeBin\SOLID Examples\SOLID.Demo\SOLID.Demo\obj\Debug\net7.0\SOLID.Demo.genruntimeconfig.cache
+C:\Github\ChallengeBin\SOLID Examples\SOLID.Demo\SOLID.Demo\obj\Debug\net7.0\ref\SOLID.Demo.dll
