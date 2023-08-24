@@ -68,7 +68,7 @@
                         return;
                         
                 }
-                Console.WriteLine("Thank you");
+                
             }
 
             
