@@ -270,3 +270,6 @@
 /Objects[[:space:]]sandbox/PracticePrograms/PracticePrograms/bin/Debug/net7.0/PracticePrograms.exe filter=lfs diff=lfs merge=lfs -text
 /Objects[[:space:]]sandbox/PracticePrograms/PracticePrograms/obj/Debug/net7.0/apphost.exe filter=lfs diff=lfs merge=lfs -text
 /SOLID[[:space:]]Examples/SOLID.Demo/.vs/ProjectEvaluation/solid.demo.metadata.v7.bin filter=lfs diff=lfs merge=lfs -text
+/Factory[[:space:]]Method/Practice.Factory.Methos/Practice.Factory.Methos/bin/Debug/net7.0/Practice.Factory.Methos.exe filter=lfs diff=lfs merge=lfs -text
+/Factory[[:space:]]Method/Practice.Factory.Methos/Practice.Factory.Methos/obj/Debug/net7.0/apphost.exe filter=lfs diff=lfs merge=lfs -text
+/Objects[[:space:]]sandbox/PracticePrograms/.vs/ProjectEvaluation/practiceprograms.metadata.v7.bin filter=lfs diff=lfs merge=lfs -text

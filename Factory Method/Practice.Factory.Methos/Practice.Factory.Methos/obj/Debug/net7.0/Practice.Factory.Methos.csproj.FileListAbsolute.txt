@@ -1,0 +1,14 @@
+C:\Github\ChallengeBin\Factory Method\Practice.Factory.Methos\Practice.Factory.Methos\bin\Debug\net7.0\Practice.Factory.Methos.exe
+C:\Github\ChallengeBin\Factory Method\Practice.Factory.Methos\Practice.Factory.Methos\bin\Debug\net7.0\Practice.Factory.Methos.deps.json
+C:\Github\ChallengeBin\Factory Method\Practice.Factory.Methos\Practice.Factory.Methos\bin\Debug\net7.0\Practice.Factory.Methos.runtimeconfig.json
+C:\Github\ChallengeBin\Factory Method\Practice.Factory.Methos\Practice.Factory.Methos\bin\Debug\net7.0\Practice.Factory.Methos.dll
+C:\Github\ChallengeBin\Factory Method\Practice.Factory.Methos\Practice.Factory.Methos\bin\Debug\net7.0\Practice.Factory.Methos.pdb
+C:\Github\ChallengeBin\Factory Method\Practice.Factory.Methos\Practice.Factory.Methos\obj\Debug\net7.0\Practice.Factory.Methos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\ChallengeBin\Factory Method\Practice.Factory.Methos\Practice.Factory.Methos\obj\Debug\net7.0\Practice.Factory.Methos.AssemblyInfoInputs.cache
+C:\Github\ChallengeBin\Factory Method\Practice.Factory.Methos\Practice.Factory.Methos\obj\Debug\net7.0\Practice.Factory.Methos.AssemblyInfo.cs
+C:\Github\ChallengeBin\Factory Method\Practice.Factory.Methos\Practice.Factory.Methos\obj\Debug\net7.0\Practice.Factory.Methos.csproj.CoreCompileInputs.cache
+C:\Github\ChallengeBin\Factory Method\Practice.Factory.Methos\Practice.Factory.Methos\obj\Debug\net7.0\Practice.Factory.Methos.dll
+C:\Github\ChallengeBin\Factory Method\Practice.Factory.Methos\Practice.Factory.Methos\obj\Debug\net7.0\refint\Practice.Factory.Methos.dll
+C:\Github\ChallengeBin\Factory Method\Practice.Factory.Methos\Practice.Factory.Methos\obj\Debug\net7.0\Practice.Factory.Methos.pdb
+C:\Github\ChallengeBin\Factory Method\Practice.Factory.Methos\Practice.Factory.Methos\obj\Debug\net7.0\Practice.Factory.Methos.genruntimeconfig.cache
+C:\Github\ChallengeBin\Factory Method\Practice.Factory.Methos\Practice.Factory.Methos\obj\Debug\net7.0\ref\Practice.Factory.Methos.dll
