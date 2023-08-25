@@ -103,7 +103,7 @@ namespace PracticePrograms
         void Swim();
     }
 
-   public class Berserker : Warrior
+   public class Berserker : Warrior, ISwim
     {
         private string ability = "Raging Blow";
 
@@ -116,7 +116,7 @@ namespace PracticePrograms
 
         public string Ability
         {
-            get { return this.ability; }
+            get { return ability; }
             
         }
 
