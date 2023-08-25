@@ -267,3 +267,6 @@
 /ATM/VirtualATM/.vs/ProjectEvaluation/virtualatm.metadata.v7.bin filter=lfs diff=lfs merge=lfs -text
 /SOLID[[:space:]]Examples/SOLID.Demo/SOLID.Demo/bin/Debug/net7.0/SOLID.Demo.exe filter=lfs diff=lfs merge=lfs -text
 /SOLID[[:space:]]Examples/SOLID.Demo/SOLID.Demo/obj/Debug/net7.0/apphost.exe filter=lfs diff=lfs merge=lfs -text
+/Objects[[:space:]]sandbox/PracticePrograms/PracticePrograms/bin/Debug/net7.0/PracticePrograms.exe filter=lfs diff=lfs merge=lfs -text
+/Objects[[:space:]]sandbox/PracticePrograms/PracticePrograms/obj/Debug/net7.0/apphost.exe filter=lfs diff=lfs merge=lfs -text
+/SOLID[[:space:]]Examples/SOLID.Demo/.vs/ProjectEvaluation/solid.demo.metadata.v7.bin filter=lfs diff=lfs merge=lfs -text
