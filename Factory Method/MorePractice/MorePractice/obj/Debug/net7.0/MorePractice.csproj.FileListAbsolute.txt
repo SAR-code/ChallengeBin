@@ -1,0 +1,14 @@
+C:\Github\ChallengeBin\Factory Method\MorePractice\MorePractice\bin\Debug\net7.0\MorePractice.exe
+C:\Github\ChallengeBin\Factory Method\MorePractice\MorePractice\bin\Debug\net7.0\MorePractice.deps.json
+C:\Github\ChallengeBin\Factory Method\MorePractice\MorePractice\bin\Debug\net7.0\MorePractice.runtimeconfig.json
+C:\Github\ChallengeBin\Factory Method\MorePractice\MorePractice\bin\Debug\net7.0\MorePractice.dll
+C:\Github\ChallengeBin\Factory Method\MorePractice\MorePractice\bin\Debug\net7.0\MorePractice.pdb
+C:\Github\ChallengeBin\Factory Method\MorePractice\MorePractice\obj\Debug\net7.0\MorePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\ChallengeBin\Factory Method\MorePractice\MorePractice\obj\Debug\net7.0\MorePractice.AssemblyInfoInputs.cache
+C:\Github\ChallengeBin\Factory Method\MorePractice\MorePractice\obj\Debug\net7.0\MorePractice.AssemblyInfo.cs
+C:\Github\ChallengeBin\Factory Method\MorePractice\MorePractice\obj\Debug\net7.0\MorePractice.csproj.CoreCompileInputs.cache
+C:\Github\ChallengeBin\Factory Method\MorePractice\MorePractice\obj\Debug\net7.0\MorePractice.dll
+C:\Github\ChallengeBin\Factory Method\MorePractice\MorePractice\obj\Debug\net7.0\refint\MorePractice.dll
+C:\Github\ChallengeBin\Factory Method\MorePractice\MorePractice\obj\Debug\net7.0\MorePractice.pdb
+C:\Github\ChallengeBin\Factory Method\MorePractice\MorePractice\obj\Debug\net7.0\MorePractice.genruntimeconfig.cache
+C:\Github\ChallengeBin\Factory Method\MorePractice\MorePractice\obj\Debug\net7.0\ref\MorePractice.dll
