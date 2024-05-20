@@ -273,3 +273,15 @@
 /Factory[[:space:]]Method/Practice.Factory.Methos/Practice.Factory.Methos/bin/Debug/net7.0/Practice.Factory.Methos.exe filter=lfs diff=lfs merge=lfs -text
 /Factory[[:space:]]Method/Practice.Factory.Methos/Practice.Factory.Methos/obj/Debug/net7.0/apphost.exe filter=lfs diff=lfs merge=lfs -text
 /Objects[[:space:]]sandbox/PracticePrograms/.vs/ProjectEvaluation/practiceprograms.metadata.v7.bin filter=lfs diff=lfs merge=lfs -text
+/Factory[[:space:]]Method/MorePractice/.vs/ProjectEvaluation/morepractice.metadata.v7.bin filter=lfs diff=lfs merge=lfs -text
+/Factory[[:space:]]Method/MorePractice/MorePractice/bin/Debug/net7.0/MorePractice.exe filter=lfs diff=lfs merge=lfs -text
+/Factory[[:space:]]Method/MorePractice/MorePractice/obj/Debug/net7.0/apphost.exe filter=lfs diff=lfs merge=lfs -text
+/Factory[[:space:]]Method/Practice.Factory.Methos/.vs/ProjectEvaluation/practice.factory.methos.metadata.v7.bin filter=lfs diff=lfs merge=lfs -text
+/Factory[[:space:]]Method/Practice.Factory.Methos/.vs/ProjectEvaluation/practice.factory.methos.projects.v7.bin filter=lfs diff=lfs merge=lfs -text
+/NextJs/corp/public/home.jpg filter=lfs diff=lfs merge=lfs -text
+/NextJs/corp/public/performance.jpg filter=lfs diff=lfs merge=lfs -text
+/NextJs/corp/public/reliability.jpg filter=lfs diff=lfs merge=lfs -text
+/NextJs/corp/public/scale.jpg filter=lfs diff=lfs merge=lfs -text
+/NextJs/corp/yarn.lock filter=lfs diff=lfs merge=lfs -text
+/Objects[[:space:]]sandbox/PracticePrograms/.vs/ProjectEvaluation/practiceprograms.projects.v7.bin filter=lfs diff=lfs merge=lfs -text
+/SOLID[[:space:]]Examples/SOLID.Demo/.vs/ProjectEvaluation/solid.demo.projects.v7.bin filter=lfs diff=lfs merge=lfs -text
