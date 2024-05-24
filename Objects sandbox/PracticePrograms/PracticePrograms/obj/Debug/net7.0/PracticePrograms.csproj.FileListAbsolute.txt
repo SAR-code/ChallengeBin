@@ -1,0 +1,14 @@
+C:\Github\ChallengeBin\Objects sandbox\PracticePrograms\PracticePrograms\bin\Debug\net7.0\PracticePrograms.exe
+C:\Github\ChallengeBin\Objects sandbox\PracticePrograms\PracticePrograms\bin\Debug\net7.0\PracticePrograms.deps.json
+C:\Github\ChallengeBin\Objects sandbox\PracticePrograms\PracticePrograms\bin\Debug\net7.0\PracticePrograms.runtimeconfig.json
+C:\Github\ChallengeBin\Objects sandbox\PracticePrograms\PracticePrograms\bin\Debug\net7.0\PracticePrograms.dll
+C:\Github\ChallengeBin\Objects sandbox\PracticePrograms\PracticePrograms\bin\Debug\net7.0\PracticePrograms.pdb
+C:\Github\ChallengeBin\Objects sandbox\PracticePrograms\PracticePrograms\obj\Debug\net7.0\PracticePrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\ChallengeBin\Objects sandbox\PracticePrograms\PracticePrograms\obj\Debug\net7.0\PracticePrograms.AssemblyInfoInputs.cache
+C:\Github\ChallengeBin\Objects sandbox\PracticePrograms\PracticePrograms\obj\Debug\net7.0\PracticePrograms.AssemblyInfo.cs
+C:\Github\ChallengeBin\Objects sandbox\PracticePrograms\PracticePrograms\obj\Debug\net7.0\PracticePrograms.csproj.CoreCompileInputs.cache
+C:\Github\ChallengeBin\Objects sandbox\PracticePrograms\PracticePrograms\obj\Debug\net7.0\PracticePrograms.dll
+C:\Github\ChallengeBin\Objects sandbox\PracticePrograms\PracticePrograms\obj\Debug\net7.0\refint\PracticePrograms.dll
+C:\Github\ChallengeBin\Objects sandbox\PracticePrograms\PracticePrograms\obj\Debug\net7.0\PracticePrograms.pdb
+C:\Github\ChallengeBin\Objects sandbox\PracticePrograms\PracticePrograms\obj\Debug\net7.0\PracticePrograms.genruntimeconfig.cache
+C:\Github\ChallengeBin\Objects sandbox\PracticePrograms\PracticePrograms\obj\Debug\net7.0\ref\PracticePrograms.dll
