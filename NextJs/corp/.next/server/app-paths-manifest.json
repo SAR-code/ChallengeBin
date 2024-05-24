@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/performance/page": "app/performance/page.js",
+  "/reliability/page": "app/reliability/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/scale/page": "app/scale/page.js"
+}
