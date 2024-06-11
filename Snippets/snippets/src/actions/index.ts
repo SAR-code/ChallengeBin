@@ -1,5 +1,6 @@
 "use server";
 
+import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
 import { db } from "@/db";
 
@@ -9,6 +10,7 @@ export async function editSnippet(id: number, code: string) {
     data: { code },
   });
 
+  revalidatePath(`/snippets/${id}`);
   redirect(`/snippets/${id}`);
 }
 
@@ -17,5 +19,49 @@ export async function deleteSnippet(id: number) {
     where: { id },
   });
 
+  revalidatePath(`/`);
+  redirect("/");
+}
+
+export async function createSnippet(
+  formState: { message: string },
+  formData: FormData
+) {
+  try {
+    // check for valid inupt
+    const title = formData.get("title");
+    const code = formData.get("code");
+
+    if (typeof title !== "string" || title.length < 3) {
+      return {
+        message: "Title must be longer",
+      };
+    }
+
+    if (typeof code !== "string" || code.length < 10) {
+      return {
+        message: "Code must be longer",
+      };
+    }
+    //Create a new record in the database
+    await db.snippet.create({
+      data: {
+        title: title,
+        code: code,
+      },
+    });
+  } catch (err: unknown) {
+    if (err instanceof Error) {
+      return {
+        message: err.message,
+      };
+    } else {
+      return {
+        message: "Something went wrong",
+      };
+    }
+  }
+  // Redirect user back to root route (leave outside try-catch)
+  revalidatePath(`/`);
   redirect("/");
 }
